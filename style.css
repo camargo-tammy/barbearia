@@ -1,7 +1,26 @@
 body {
     background: #6e95eb;
 }
-
+.principal{
+    background: #CCC;
+    padding: 30px;
+}
+.itens{
+    font-style: italic;
+}
+.beneficios{
+    background-color: #FFFFFF;
+    padding: 30px;
+}
+h2{
+    text-align: center;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20px;
+    margin-right: 15%;
+}
 p{
     text-align: center;
 }
@@ -10,4 +29,6 @@ p{
         color: #410aa7;
 }
 
-img src style="text-align: center"="banner.jpg"
+div{
+    text-align: center;
+}
